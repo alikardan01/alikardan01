@@ -20,4 +20,4 @@ Data Analysis enthusiast specializing in data preprocessing, exploratory analysi
 ---
 
 ### 📬 Connect With Me
-- Email: (alikardan1387@gmail.com)
+- Email: alikardan1387@gmail.com
