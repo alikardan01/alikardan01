@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Ali 👋
 
-<!--
-**alikardan01/alikardan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analysis enthusiast specializing in data preprocessing, exploratory analysis, and Python-based data wrangling. Passionate about uncovering patterns from messy, raw data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Languages:** Python
+- **Libraries:** Pandas, NumPy
+- **Environment:** Jupyter Notebook, VS Code
+- **Core Skills:** Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Missing Value Imputation
+
+---
+
+### 📂 What I'm Working On
+- Cleaning and exploring real-world datasets with complex missing values.
+- Strengthening end-to-end analytical pipelines using Pandas.
+- Preparing for remote data analysis internships.
+
+---
+
+### 📬 Connect With Me
+- Email: (alikardan1387@gmail.com)
